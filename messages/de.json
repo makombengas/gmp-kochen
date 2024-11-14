@@ -1,0 +1,281 @@
+{
+    "LanguageSwitcher": {
+        "switchTo": "Switch to {locale}"
+      },
+      "NotFound":{
+        "notFound":{
+            "title":"404",
+            "subtitle":"Seite nicht gefunden!",
+            "desc":"Die angeforderte Internetadresse funktioniert nicht.",
+            "image": "/images/logo.png",
+            "what":"Was jetzt?",
+            "btn":"Zur Seite gehen"
+        }
+      },
+      
+    "Nav": {
+        "nav":[
+            {
+                "id": 0,
+                "title": "Startseite",
+                "path": "#/",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "Über uns",
+                "path": "#about",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "title": "Projekte",
+                "path": "#projects",
+                "url": "/projects"
+              
+            },
+            {
+                "id": 3,
+                "title": "Mission",
+                "path": "#mission",
+                "url": "/mission"
+
+            },
+            {
+                "id": 4,
+                "title": "Unser Team",
+                "path": "#team",
+                "url": "/team"
+            },
+            {
+                "id": 5,
+                "title": "Kontakt",
+                "path": "#contact",
+                "url": "/contact"
+            }
+        ]
+    },
+    
+      "Carousel":{
+        "carousel":{
+            "title":"Internationale Kochprojekt",
+            "subtitle":"Lebensmittelrettung und Bildung für eine bessere Zukunft",
+            "desc":"Willkommen auf der Seite unseres Internationalen Kochprojekts, initiiert von Global Music Player! In einer Welt, in der Lebensmittelverschwendung ein immer größeres Problem darstellt, möchten wir mit unserem Projekt ein Zeichen setzen und gleichzeitig den interkulturellen Austausch fördern.",
+            "image": "/images/gas-cooker.png"
+        }
+      },
+
+      "Mission":{
+        "mission":{
+            "title":"Unsere Mission",
+            "subtitle":"",
+            "desc":"Unsere Mission ist es, Brücken zwischen Kulturen zu bauen und Vorurteile abzubauen. Durch verschiedene Projekte und Veranstaltungen schaffen wir Räume, in denen Menschen aus aller Welt ihre Geschichten, Traditionen und Talente teilen können. Unser Fokus liegt dabei auf der Förderung interkultureller Begegnungen, der Unterstützung von Bildungsprojekten in Entwicklungsländern und der Bewusstseinsbildung für nachhaltige Lebensweisen.",
+            "image": "/images/broken-egg.png",
+            "btn":"Mehr lesen"
+        }
+      },
+
+      "About":{
+        "about":{
+            "title":"Über uns",
+            "subtitle":"Global Music Player – Interkulturelles Miteinander durch Musik und Kulinarik",
+            "desc":"Global Music Player ist ein interkultureller Verein, der sich zum Ziel gesetzt hat, Menschen unterschiedlicher Kulturen durch die verbindende Kraft der Musik und kulinarische Erlebnisse zusammenzubringen. Gegründet in Oldenburg, steht unser Verein für Offenheit, Vielfalt und gegenseitigen Respekt. Wir glauben fest daran, dass kultureller Austausch ein Schlüssel zu mehr Verständnis und Toleranz in unserer Gesellschaft ist.",
+            "image": "/images/saxophonist.png",
+             "btn":"Mehr erfahren"
+        }
+      },
+      "Projects":{
+        "projects":{
+            "title":"So funktioniert das Projekt",
+            "subtitle":"",
+            "desc": "In den Workshops lernen die Schülerinnen, wie man einfache, gesunde und schmackhafte Gerichte zubereitet – und das aus Zutaten, die oft als 'Rest' betrachtet werden. Die Rezepte stammen aus verschiedenen Ländern und spiegeln die Vielfalt der Kulturen wider, die in Oldenburg zusammenkommen. Unsere internationalen Kochlehrerinnen teilen nicht nur ihr Wissen, sondern auch ihre persönlichen Geschichten und Traditionen.",
+            "image": "/images/girl.png",
+            "btn":"Mehr lesen"
+        }
+      },
+
+      "Teams":{
+        "teams":{
+            "title":"Unser Team",
+            "subtitle":"",
+            "desc": "Unser Team besteht aus engagierten Menschen verschiedenster Herkunft, die ihre Zeit, Fähigkeiten und Leidenschaften einbringen, um unsere Ziele zu verwirklichen. Jeder, der unseren Verein unterstützt, trägt dazu bei, eine Gemeinschaft zu stärken, die auf Solidarität, gegenseitigem Respekt und kultureller Vielfalt basiert.",
+            "btn":"Mehr lesen",
+            "teamCarousel":[
+                {
+                    "id": 0,
+                    "name": "Bernard Ngassa",
+                    "role": "Mitgründer / CEO",
+                    "imageUrl": "/images/bernard.png"
+                  },
+                  {
+                    "id": 1,
+                    "name": "Carsten Lienemann",
+                    "role": "Mitgründer / CEO",
+                    "imageUrl": "/images/carsten.jpg"
+                  },
+                  {
+                    "id": 2,
+                    "name": "Nino Zautashvili",
+                    "role": "Sängerin",
+                    "imageUrl": "/images/Nino.jpg"
+                  },
+                  {
+                    "id": 3,
+                    "name": "Sophie Arenhövel",
+                    "role": "Musikpädagogin und Musikerin",
+                    "imageUrl": "/images/Sophie.jpg"
+                  }
+                
+            ]
+        }
+      },
+      "Contact": {
+        "contact": {
+            "title": "Kontaktiere uns",
+            "subtitle": "Kontaktinformationen",
+            "desc": "Wir würden uns freuen, von Ihnen zu hören! Egal, ob Sie an unseren Workshops interessiert sind, sich ehrenamtlich engagieren möchten oder unsere Mission unterstützen möchten, unser Team beantwortet gerne alle Ihre Fragen.",
+            "subDesc":"Für sofortige Unterstützung oder Anfragen erreichen Sie uns unter: Carsten Lienemann",
+            "address": "Ahlersweg 15 26127 Oldenburg .",
+            "email":"mailto:mail@globalmusicplayer.com",
+            "image": "/images/girl.png",
+            "btn": "E-MAIL SCHREIBEN"
+            }
+    },
+
+    "AboutUs":{
+        "aboutUs":{
+            "title":"Über uns",
+            "subtitle":"Global Music Player – Interkulturelles Miteinander durch Musik und Kulinarik",
+            "desc":"Unsere Mission ist es, Brücken zwischen Kulturen zu bauen und Vorurteile abzubauen. Durch verschiedene Projekte und Veranstaltungen schaffen wir Räume, in denen Menschen aus aller Welt ihre Geschichten, Traditionen und Talente teilen können. Unser Fokus liegt dabei auf der Förderung interkultureller Begegnungen, der Unterstützung von Bildungsprojekten in Entwicklungsländern und der Bewusstseinsbildung für nachhaltige Lebensweisen.",
+            "image": "",
+            "aboutArray":[
+                {
+                    "id":0,
+                    "title":"Unsere Mission",
+                    "desc":"Unsere Mission ist es, Brücken zwischen Kulturen zu bauen und Vorurteile abzubauen. Durch verschiedene Projekte und Veranstaltungen schaffen wir Räume, in denen Menschen aus aller Welt ihre Geschichten, Traditionen und Talente teilen können. Unser Fokus liegt dabei auf der Förderung interkultureller Begegnungen, der Unterstützung von Bildungsprojekten in Entwicklungsländern und der Bewusstseinsbildung für nachhaltige Lebensweisen."
+                },
+                {
+                    "id":1,
+                    "title":"Unsere Projekte",
+                    "desc":"Von Musikworkshops und Konzerten bis hin zu interkulturellen Kochkursen – unsere Projekte sind so vielfältig wie unsere Mitglieder. Ein besonderes Highlight ist unser Internationales Kochprojekt, bei dem wir gemeinsam mit Schulen in Oldenburg den bewussten Umgang mit Lebensmitteln fördern und gleichzeitig den Bau von Schulen in Kamerun und der Elfenbeinküste unterstützen."
+                }
+            ]
+        }
+      },
+
+      "ProjectPage":{
+        "projectPage":{
+            "title":"Projekte",
+            "subtitle":"Nachhaltige Wirkung und zukünftige Perspektiven",
+            "desc":"Das Internationale Kochprojekt ist nicht nur auf den einmaligen Workshop beschränkt. Wir verfolgen das Ziel, eine langfristige Veränderung im Verhalten und Denken der Schüler*innen zu bewirken. Durch die Vermittlung praktischer Fähigkeiten und kultureller Sensibilität möchten wir einen Beitrag zur Schaffung einer nachhaltigen und offenen Gesellschaft leisten. Mit den Einnahmen aus diesem Projekt planen wir, weitere Schulen in Kamerun und der Elfenbeinküste zu bauen und auszustatten. Dadurch erweitern wir den Zugang zu Bildung und bieten jungen Menschen die Chance auf eine bessere Zukunft. Wir hoffen, dass dieses Projekt auch in anderen Städten und Ländern Nachahmer findet, um den positiven Einfluss zu vervielfachen.",
+            "image": "/images/hot-dog.png",
+            "subDescription": "Projektstruktur und Ablauf",
+            "subDescArray":[
+                {
+                    "id":0,
+                    "title":"1- Auswahl der Schulen und Teilnehmer*innen:",
+                    "desc":"Jeder Workshop wird sorgfältig von unseren internationalen Kochlehrer*innen vorbereitet. Sie wählen Rezepte aus, die sowohl einfach als auch repräsentativ für ihre jeweilige Kultur sind. Dabei achten wir darauf, dass die verwendeten Zutaten lokal und saisonal erhältlich sind, um die Prinzipien der Nachhaltigkeit zu unterstützen."
+                },
+                {
+                    "id":1,
+                    "title":"2- Workshop-Konzeption und Vorbereitung:",
+                    "desc":"Jeder Workshop wird sorgfältig von unseren internationalen Kochlehrer*innen vorbereitet. Sie wählen Rezepte aus, die sowohl einfach als auch repräsentativ für ihre jeweilige Kultur sind. Dabei achten wir darauf, dass die verwendeten Zutaten lokal und saisonal erhältlich sind, um die Prinzipien der Nachhaltigkeit zu unterstützen."
+                },
+                {
+                    "id":2,
+                    "title":"3- Durchführung der Workshops:",
+                    "desc":"Die Workshops beginnen mit einer Einführung in das Thema Lebensmittelverschwendung und die Bedeutung von Nachhaltigkeit. Anschließend stellen die Kochlehrerinnen ihre Rezepte vor und erzählen die Geschichten, die hinter den Gerichten stehen. Die Schülerinnen kochen dann unter Anleitung und lernen dabei wichtige Küchentechniken sowie kreative Wege, um mit Resten umzugehen."
+                },
+                {
+                    "id":3,
+                    "title":"4- Reflexion und Austausch:",
+                    "desc":"Nach dem gemeinsamen Kochen und Essen gibt es Raum für Reflexion und Diskussion. Die Schüler*innen können Fragen stellen, ihre Erfahrungen teilen und darüber sprechen, was sie gelernt haben. Dieser Austausch ist entscheidend für das Verständnis der kulturellen und ökologischen Themen, die das Projekt behandelt."
+                },
+                {
+                    "id":4,
+                    "title":"5- Weiterführung und Engagement:",
+                    "desc":"Nach den Workshops erhalten die Teilnehmer*innen Zugang zu Rezepten und Materialien, die sie zu Hause nutzen können, um das Gelernte weiter zu vertiefen. Zudem haben sie die Möglichkeit, an weiteren Aktivitäten des Global Music Player Vereins teilzunehmen, um ihr Wissen und ihre Fähigkeiten weiter auszubauen."
+                }
+            ]
+        }
+      },
+      "MissionPage": {
+        "headTitle": "Mission",
+        "missionPage": {
+            "title": "Gemeinsam für Nachhaltigkeit und Bildung",
+            "image": "/images/egg.png",
+            "subImage": "/images/carrot.png",
+            "desc": "Das Internationale Kochprojekt von Global Music Player ist eine einzigartige Initiative, die Kulinarik, interkulturellen Austausch und Bildung miteinander verbindet. In Zusammenarbeit mit Schulen in Oldenburg wollen wir Schüler*innen für einen bewussten und nachhaltigen Umgang mit Lebensmitteln sensibilisieren und gleichzeitig eine Brücke zwischen den Kulturen schlagen. In einer Welt, in der Millionen Tonnen von Lebensmitteln jedes Jahr verschwendet werden, möchten wir ein Bewusstsein dafür schaffen, wie wertvoll jede Zutat ist. Durch das Internationale Kochprojekt bringen wir den Schülerinnen bei, dass man aus jedem Lebensmittel – selbst aus vermeintlichen Resten – etwas Leckeres und Nahrhaftes zaubern kann. Gleichzeitig nutzen wir die Kraft des gemeinsamen Kochens, um kulturelle Unterschiede zu überwinden und eine neue Generation von umweltbewussten und weltoffenen Bürgerinnen zu fördern.",
+            "subtitle": "Unsere Idee",
+            "subDescription": "Lebensmittelverschwendung ist ein globales Problem, das uns alle betrifft. Mit unserem Projekt zeigen wir, wie man aus Resten und überschüssigen Lebensmitteln leckere und nahrhafte Gerichte zaubern kann. Das Besondere: Die Kochworkshops werden von Menschen aus verschiedenen Ländern geleitet, die in Oldenburg leben und ihre traditionellen Rezepte und Kochkünste mit den Schülerinnen teilen. So entsteht nicht nur ein Bewusstsein für Nachhaltigkeit, sondern auch ein interkultureller Dialog, der den Horizont der Teilnehmerinnen erweitert.",
+            "subMissionTitle": "Unsere Ziele und der gesellschaftliche Mehrwert",
+            "subMissionArray": [
+                {
+                    "id": 0,
+                    "title": "Nachhaltigkeit und Lebensmittelrettung:",
+                    "desc": "Der Umgang mit Lebensmitteln ist ein zentraler Aspekt des Projekts. Wir zeigen den Schüler*innen, wie sie aus Lebensmitteln, die oft als Abfall betrachtet werden, köstliche Gerichte zubereiten können. Dabei lernen sie, Ressourcen zu schonen und ihren ökologischen Fußabdruck zu verkleinern. Diese Fähigkeiten sind nicht nur im Haushalt nützlich, sondern tragen auch zur globalen Nachhaltigkeit bei."
+                },
+                {
+                    "id": 1,
+                    "title": "Nachhaltigkeit und Lebensmittelrettung:",
+                    "desc": "Der Umgang mit Lebensmitteln ist ein zentraler Aspekt des Projekts. Wir zeigen den Schüler*innen, wie sie aus Lebensmitteln, die oft als Abfall betrachtet werden, köstliche Gerichte zubereiten können. Dabei lernen sie, Ressourcen zu schonen und ihren ökologischen Fußabdruck zu verkleinern. Diese Fähigkeiten sind nicht nur im Haushalt nützlich, sondern tragen auch zur globalen Nachhaltigkeit bei."
+                },
+                {
+                    "id": 2,
+                    "title": "Nachhaltigkeit und Lebensmittelrettung:",
+                    "desc": "Der Umgang mit Lebensmitteln ist ein zentraler Aspekt des Projekts. Wir zeigen den Schüler*innen, wie sie aus Lebensmitteln, die oft als Abfall betrachtet werden, köstliche Gerichte zubereiten können. Dabei lernen sie, Ressourcen zu schonen und ihren ökologischen Fußabdruck zu verkleinern. Diese Fähigkeiten sind nicht nur im Haushalt nützlich, sondern tragen auch zur globalen Nachhaltigkeit bei."
+                }
+            ]
+        }
+    },
+    "TeamPage":{
+        "teamPage":{
+            "title":"Team",
+            "subtitle":"Unser Team",
+            "desc":"Unser Team besteht aus engagierten Menschen verschiedenster Herkunft, die ihre Zeit, Fähigkeiten und Leidenschaften einbringen, um unsere Ziele zu verwirklichen. Jeder, der unseren Verein unterstützt, trägt dazu bei, eine Gemeinschaft zu stärken, die auf Solidarität, gegenseitigem Respekt und kultureller Vielfalt basiert.",
+            "image": "/images/peoples.png",
+            "subDescription": "Lernen Sie unser Team kennen und lassen Sie sich inspirieren von den Menschen, die hinter dem Projekt stehen – Menschen, die den Unterschied machen, einen Teller und ein Lächeln nach dem anderen!",
+            "subDescArray":[
+                {
+                    "id":0,
+                    "title":"Wer sind wir?",
+                    "desc":"Wir sind Köche, Kulturbotschafter, Pädagogen, Marketing- und Kommunikationstalente, IT-Profis und Visionäre – alle vereint durch das Ziel, kulturelles Wissen und nachhaltiges Denken weiterzugeben. Unsere Mitglieder stammen aus verschiedenen Ländern und Kulturen, leben aber jetzt in Oldenburg. Gemeinsam bringen wir nicht nur die Aromen und Gerichte unserer Heimatländer mit, sondern auch die Geschichten und Traditionen, die diese Küche so besonders machen."
+                },
+                {
+                    "id":1,
+                    "title":"Wofür stehen wir?",
+                    "desc":"Unser Team steht für Offenheit, Zusammenarbeit und den Wunsch, die Welt durch gemeinsames Handeln ein kleines Stück besser zu machen. Wir glauben daran, dass Kochen verbindet und die Neugier auf andere Kulturen weckt. Unser Projekt ist für uns mehr als eine Initiative – es ist eine Herzensangelegenheit. Mit jedem Rezept, jeder Anekdote und jeder Interaktion möchten wir Brücken zwischen den Kulturen bauen und einen Beitrag zur Bildung leisten."
+                },
+                {
+                    "id":2,
+                    "title":"Was uns besonders macht?",
+                    "desc":"Was uns auszeichnet, ist unsere Vielfalt und unser Engagement. Jedes Mitglied unseres Teams bringt eigene Talente und einzigartige Perspektiven ein. Gemeinsam bilden wir eine starke Einheit, die von kulinarischer Kreativität und dem Wunsch, etwas Nachhaltiges zu schaffen, angetrieben wird. Unser Team liebt es, voneinander zu lernen und sich gegenseitig zu inspirieren – und genau diese Begeisterung möchten wir an Kinder, Jugendliche und die Gemeinschaft weitergeben."
+                },
+                {
+                    "id":3,
+                    "title":"4- Reflexion und Austausch:",
+                    "desc":"Nach dem gemeinsamen Kochen und Essen gibt es Raum für Reflexion und Diskussion. Die Schüler*innen können Fragen stellen, ihre Erfahrungen teilen und darüber sprechen, was sie gelernt haben. Dieser Austausch ist entscheidend für das Verständnis der kulturellen und ökologischen Themen, die das Projekt behandelt."
+                }
+            ]
+        }
+      },
+
+      "ContactPage": {
+        "contactPage": {
+            "title": "Kontakt",
+            "subtitle": "Kontaktieren Sie uns",
+            "desc": "Haben Sie Fragen, Ideen oder möchten Sie unser Projekt unterstützen? Wir freuen uns, von Ihnen zu hören! Ganz gleich, ob Sie mehr über unsere Kochkurse erfahren möchten, Interesse daran haben, sich als Freiwillige*r zu engagieren, oder einfach nur neugierig auf die Menschen hinter dem Projekt sind – wir sind für Sie da.",
+            "emailTitle": "So erreichen Sie uns:",
+            "emailDesc":"E-Mail: Schreiben Sie uns jederzeit eine Nachricht an: und wir melden uns so schnell wie möglich bei Ihnen zurück.",
+            "social": "Social Media:",
+            "website": "Alternativ besuchen Sie unsere Website",
+            "webLink": "https://globalmusicplayer.com",
+            "socialDesc": "Bleiben Sie auf dem Laufenden! Folgen Sie uns auf unseren Social-Media-Kanälen und erhalten Sie regelmäßig Einblicke hinter die Kulissen, Veranstaltungshinweise und Rezepte zum Nachkochen. Sie finden uns auf:",
+            "email":"mail@globalmusicplayer.com",
+            "visitUs": "Besuchen Sie uns:",
+            "visitDesc": "Wenn Sie in Oldenburg sind und uns persönlich kennenlernen möchten, freuen wir uns über einen Besuch . Kommen Sie vorbei und erfahren Sie mehr über unser Projekt und die Menschen, die dahinterstehen. Schreiben Sie uns einfach eine kurze Nachricht, um einen Termin zu vereinbaren!"
+            }
+      }
+    
+
+}

@@ -1,0 +1,280 @@
+{
+    "LanguageSwitcher": {
+        "switchTo": "Switch to {locale}"
+      },
+      "NotFound": {
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page non trouvée !",
+      "desc": "L'adresse URL demandée ne fonctionne pas.",
+      "image": "/images/logo.png",
+      "what": "Que faire ?",
+      "btn": "Aller à la page d'accueil"
+    }
+  },
+    "Carousel": {
+        "carousel": {
+            "title": "Projet de Cuisine Internationale",
+            "subtitle": "Sauvetage Alimentaire et Éducation pour un Avenir Meilleur",
+            "desc": "Bienvenue sur la page de notre Projet de Cuisine Internationale, initié par Global Music Player ! Dans un monde où le gaspillage alimentaire devient un problème de plus en plus grave, nous souhaitons faire une différence avec notre projet tout en favorisant l'échange interculturel.",
+             "image": "/images/gas-cooker.png"
+        }
+    },
+
+    "Nav": {
+        "nav": [
+            {
+                "id": 0,
+                "title": "Accueil",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "À propos de nous",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "title": "Nos projets",
+                "url": "/projects"
+            },
+            {
+                "id": 3,
+                "title": "Notre mission",
+                "url": "/mission"
+            },
+            {
+                "id": 4,
+                "title": "Notre équipe",
+                "url": "/team"
+            },
+            {
+                "id": 5,
+                "title": "Contact",
+                "url": "/contact"
+            }
+        ]
+    },
+      
+    "Mission":{
+        "mission": {
+            "title": "Notre Mission",
+            "subtitle": "",
+            "desc": "Notre mission est de construire des ponts entre les cultures et de réduire les préjugés. À travers divers projets et événements, nous créons des espaces où des personnes du monde entier peuvent partager leurs histoires, traditions et talents. Nous nous concentrons sur la promotion des rencontres interculturelles, le soutien aux projets éducatifs dans les pays en développement, et la sensibilisation à des modes de vie durables.",
+            "image": "/images/broken-egg.png",
+            "btn": "Lire plus"
+        }
+
+    },
+
+    "About": {
+    "about": {
+        "title": "À propos de nous",
+        "subtitle": "Global Music Player – L'interaction interculturelle à travers la musique et la cuisine",
+        "desc": "Global Music Player est une association interculturelle qui a pour objectif de rassembler des personnes de différentes cultures grâce à la force unificatrice de la musique et des expériences culinaires. Fondée à Oldenburg, notre association incarne l'ouverture, la diversité et le respect mutuel. Nous croyons fermement que l'échange culturel est la clé d'une meilleure compréhension et tolérance au sein de notre société.",
+        "image": "/images/saxophonist.png",
+        "btn": "En savoir plus"
+        }
+    },
+    "Projects": {
+    "projects": {
+        "title": "Comment fonctionne le projet",
+        "subtitle": "",
+        "desc": "Lors des ateliers, les élèves apprennent à préparer des plats simples, sains et savoureux – à partir d'ingrédients souvent considérés comme des 'restes'. Les recettes proviennent de différents pays et reflètent la diversité des cultures présentes à Oldenburg. Nos enseignantes internationales en cuisine partagent non seulement leurs connaissances, mais aussi leurs histoires et traditions personnelles.",
+        "image": "/images/girl.png",
+        "btn": "Lire la suite"
+        }
+    },
+    "Teams": {
+    "teams": {
+        "title": "Notre équipe",
+        "subtitle": "",
+        "desc": "Notre équipe est composée de personnes engagées venant de divers horizons, qui mettent leur temps, leurs compétences et leurs passions au service de nos objectifs. Chaque personne qui soutient notre association contribue à renforcer une communauté fondée sur la solidarité, le respect mutuel et la diversité culturelle.",
+        "btn": "Lire la suite",
+        "teamCarousel": [
+            {
+                "id": 0,
+                "name": "Bernard Ngassa",
+                "role": "Co-fondateur / CEO",
+                "imageUrl": "/images/bernard.png"
+            },
+            {
+                "id": 1,
+                "name": "Carsten Lienemann",
+                "role": "Co-fondateur / CEO",
+                "imageUrl": "/images/carsten.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Nino Zautashvili",
+                "role": "Chanteuse",
+                "imageUrl": "/images/Nino.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Sophie Arenhövel",
+                "role": "Pédagogue musical et musicienne",
+                "imageUrl": "/images/Sophie.jpg"
+            }
+        ]
+        }
+    },
+    "Contact": {
+    "contact": {
+        "title": "Contactez-nous",
+        "subtitle": "Informations de contact",
+        "desc": "Nous serions ravis de vous entendre ! Que vous soyez intéressé par nos ateliers, souhaitiez faire du bénévolat ou soutenir notre mission, notre équipe est prête à répondre à toutes vos questions.",
+        "subDesc": "Pour une assistance ou des demandes immédiates, vous pouvez nous joindre à : Carsten Lienemann",
+        "address": "Ahlersweg 15, 26127 Oldenburg.",
+        "email": "mailto:mail@globalmusicplayer.com",
+        "image": "/images/girl.png",
+        "btn": "ENVOYER UN E-MAIL"
+    }
+   
+
+},
+"AboutUs": {
+    "aboutUs": {
+        "title": "À propos de nous",
+        "subtitle": "Global Music Player – Interaction interculturelle à travers la musique et la cuisine",
+        "desc": "Notre mission est de construire des ponts entre les cultures et de réduire les préjugés. À travers divers projets et événements, nous créons des espaces où des personnes du monde entier peuvent partager leurs histoires, traditions et talents. Nous nous concentrons sur la promotion des rencontres interculturelles, le soutien aux projets éducatifs dans les pays en développement et la sensibilisation à des modes de vie durables.",
+        "image": "",
+        "aboutArray": [
+            {
+                "id": 0,
+                "title": "Notre Mission",
+                "desc": "Notre mission est de construire des ponts entre les cultures et de réduire les préjugés. À travers divers projets et événements, nous créons des espaces où des personnes du monde entier peuvent partager leurs histoires, traditions et talents. Nous nous concentrons sur la promotion des rencontres interculturelles, le soutien aux projets éducatifs dans les pays en développement et la sensibilisation à des modes de vie durables."
+            },
+            {
+                "id": 1,
+                "title": "Nos Projets",
+                "desc": "Des ateliers de musique et concerts aux cours de cuisine interculturels – nos projets sont aussi divers que nos membres. Un point fort est notre Projet de Cuisine Internationale, où nous collaborons avec des écoles à Oldenburg pour promouvoir une utilisation consciente des aliments tout en soutenant la construction d'écoles au Cameroun et en Côte d'Ivoire."
+            }
+        ]
+        }
+    },
+    "ProjectPage": {
+    "projectPage": {
+        "title": "Projets",
+        "subtitle": "Impact durable et perspectives d'avenir",
+        "desc": "Le Projet de Cuisine Internationale ne se limite pas à un atelier unique. Nous visons à provoquer un changement durable dans le comportement et l'état d'esprit des élèves. En enseignant des compétences pratiques et la sensibilité culturelle, nous espérons contribuer à la création d'une société durable et ouverte. Avec les recettes de ce projet, nous prévoyons de construire et d'équiper davantage d'écoles au Cameroun et en Côte d'Ivoire, élargissant ainsi l'accès à l'éducation et offrant aux jeunes une chance pour un avenir meilleur. Nous espérons que ce projet inspirera des initiatives similaires dans d'autres villes et pays, multipliant ainsi son impact positif.",
+        "image": "/images/hot-dog.png",
+        "subDescription": "Structure et déroulement du projet",
+        "subDescArray": [
+            {
+                "id": 0,
+                "title": "1- Sélection des écoles et des participants :",
+                "desc": "Chaque atelier est soigneusement préparé par nos instructeurs de cuisine internationaux. Ils choisissent des recettes à la fois simples et représentatives de leur culture respective. Nous veillons à ce que les ingrédients utilisés soient disponibles localement et de saison, pour soutenir les principes de durabilité."
+            },
+            {
+                "id": 1,
+                "title": "2- Conception et préparation de l'atelier :",
+                "desc": "Chaque atelier est soigneusement préparé par nos instructeurs de cuisine internationaux. Ils choisissent des recettes à la fois simples et représentatives de leur culture respective. Nous veillons à ce que les ingrédients utilisés soient disponibles localement et de saison, pour soutenir les principes de durabilité."
+            },
+            {
+                "id": 2,
+                "title": "3- Déroulement des ateliers :",
+                "desc": "Les ateliers commencent par une introduction au thème du gaspillage alimentaire et à l'importance de la durabilité. Les instructeurs présentent ensuite leurs recettes et partagent les histoires qui se cachent derrière les plats. Les élèves cuisinent sous la direction des instructeurs, apprenant des techniques de cuisine essentielles et des moyens créatifs de réutiliser les restes."
+            },
+            {
+                "id": 3,
+                "title": "4- Réflexion et échange :",
+                "desc": "Après avoir cuisiné et mangé ensemble, un temps est réservé pour la réflexion et la discussion. Les élèves peuvent poser des questions, partager leurs expériences et parler de ce qu'ils ont appris. Cet échange est essentiel pour comprendre les enjeux culturels et écologiques abordés par le projet."
+            },
+            {
+                "id": 4,
+                "title": "5- Suivi et engagement :",
+                "desc": "Après les ateliers, les participants reçoivent des recettes et des documents qu'ils peuvent utiliser chez eux pour approfondir ce qu'ils ont appris. Ils ont également la possibilité de participer à d'autres activités avec l'association Global Music Player pour continuer à développer leurs connaissances et compétences."
+            }
+        ]
+    }
+},
+"MissionPage": {
+    "missionPage": {
+        "headTitle": "Mission",
+        "title": "Ensemble pour la durabilité et l'éducation",
+        "image": "/images/egg.png",
+        "subImage": "/images/carrot.png",
+        "desc": "Le Projet de Cuisine Internationale de Global Music Player est une initiative unique qui allie arts culinaires, échange interculturel et éducation. En collaboration avec des écoles à Oldenburg, nous visons à sensibiliser les élèves à des pratiques alimentaires conscientes et durables tout en rapprochant les cultures. Dans un monde où des millions de tonnes de nourriture sont gaspillées chaque année, nous voulons montrer la valeur de chaque ingrédient. Avec le Projet de Cuisine Internationale, nous apprenons aux élèves que chaque aliment – même des restes – peut être transformé en quelque chose de délicieux et nutritif. En même temps, nous utilisons la puissance du partage culinaire pour dépasser les différences culturelles et encourager une nouvelle génération de citoyens conscients de l'environnement et ouverts d'esprit.",
+        "subtitle": "Notre idée",
+        "subDescription": "Le gaspillage alimentaire est un problème mondial qui nous concerne tous. Avec notre projet, nous montrons comment des plats délicieux et nutritifs peuvent être créés à partir de restes et d'excédents de nourriture. Ce qui rend notre projet unique : les ateliers de cuisine sont animés par des personnes de divers pays qui vivent à Oldenburg et partagent leurs recettes et techniques traditionnelles avec les élèves. Cette démarche ne favorise pas seulement la prise de conscience pour la durabilité mais initie également un dialogue interculturel qui élargit les perspectives des participants.",
+        "subMissionTitle": "Nos objectifs et la valeur sociétale",
+        "subMissionArray": [
+            {
+                "id": 0,
+                "title": "Durabilité et lutte contre le gaspillage alimentaire :",
+                "desc": "La gestion des aliments est un aspect central du projet. Nous montrons aux élèves comment préparer de délicieux plats à partir d'ingrédients souvent considérés comme des déchets. Ils apprennent à économiser les ressources et à réduire leur empreinte écologique. Ces compétences sont utiles non seulement dans la vie quotidienne, mais contribuent également à la durabilité mondiale."
+            },
+            {
+                "id": 1,
+                "title": "Durabilité et lutte contre le gaspillage alimentaire :",
+                "desc": "La gestion des aliments est un aspect central du projet. Nous montrons aux élèves comment préparer de délicieux plats à partir d'ingrédients souvent considérés comme des déchets. Ils apprennent à économiser les ressources et à réduire leur empreinte écologique. Ces compétences sont utiles non seulement dans la vie quotidienne, mais contribuent également à la durabilité mondiale."
+            },
+            {
+                "id": 2,
+                "title": "Durabilité et lutte contre le gaspillage alimentaire :",
+                "desc": "La gestion des aliments est un aspect central du projet. Nous montrons aux élèves comment préparer de délicieux plats à partir d'ingrédients souvent considérés comme des déchets. Ils apprennent à économiser les ressources et à réduire leur empreinte écologique. Ces compétences sont utiles non seulement dans la vie quotidienne, mais contribuent également à la durabilité mondiale."
+            }
+        ]
+    }
+},
+"TeamPage": {
+    "teamPage": {
+        "title": "Équipe",
+        "subtitle": "Notre équipe",
+        "desc": "Notre équipe est composée de personnes dévouées issues de divers horizons, qui apportent leur temps, leurs compétences et leurs passions pour atteindre nos objectifs. Chacun de ceux qui soutiennent notre association contribue à renforcer une communauté fondée sur la solidarité, le respect mutuel et la diversité culturelle.",
+        "image": "/images/peoples.png",
+        "subDescription": "Faites connaissance avec notre équipe et laissez-vous inspirer par les personnes derrière le projet – des personnes qui font la différence, une assiette et un sourire à la fois !",
+        "subDescArray": [
+            {
+                "id": 0,
+                "title": "Qui sommes-nous ?",
+                "desc": "Nous sommes des chefs, des ambassadeurs culturels, des éducateurs, des talents en marketing et en communication, des professionnels de l'informatique et des visionnaires – tous unis par l'objectif de transmettre des connaissances culturelles et de promouvoir une pensée durable. Nos membres viennent de différents pays et cultures mais vivent désormais à Oldenburg. Ensemble, nous apportons non seulement les saveurs et les plats de nos pays d'origine, mais aussi les histoires et les traditions qui rendent cette cuisine si spéciale."
+            },
+            {
+                "id": 1,
+                "title": "Que représentons-nous ?",
+                "desc": "Notre équipe représente l’ouverture, la collaboration et le désir de rendre le monde un peu meilleur par une action commune. Nous croyons que la cuisine relie les gens et éveille la curiosité pour d'autres cultures. Notre projet est pour nous bien plus qu'une simple initiative – c'est une affaire de cœur. Avec chaque recette, chaque anecdote et chaque interaction, nous souhaitons construire des ponts entre les cultures et contribuer à l'éducation."
+            },
+            {
+                "id": 2,
+                "title": "Qu'est-ce qui nous rend spéciaux ?",
+                "desc": "Ce qui nous distingue, c'est notre diversité et notre engagement. Chaque membre de notre équipe apporte ses talents propres et des perspectives uniques. Ensemble, nous formons une unité solide, motivée par la créativité culinaire et le désir de créer quelque chose de durable. Notre équipe aime apprendre les uns des autres et s’inspirer mutuellement – et nous voulons transmettre cette passion aux enfants, aux jeunes et à la communauté."
+            },
+            {
+                "id": 3,
+                "title": "Réflexion et échange :",
+                "desc": "Après avoir cuisiné et mangé ensemble, il y a un espace pour la réflexion et la discussion. Les élèves peuvent poser des questions, partager leurs expériences et parler de ce qu'ils ont appris. Cet échange est essentiel pour comprendre les enjeux culturels et écologiques abordés par le projet."
+            }
+        ]
+    }
+},
+
+"ContactPage": {
+    "contactPage": {
+        "title": "Contact",
+        "subtitle": "Contactez-nous",
+        "desc": "Avez-vous des questions, des idées, ou souhaitez-vous soutenir notre projet ? Nous serions ravis d'avoir de vos nouvelles ! Que vous souhaitiez en savoir plus sur nos cours de cuisine, que vous soyez intéressé à vous engager en tant que bénévole, ou que vous soyez simplement curieux des personnes derrière le projet – nous sommes là pour vous.",
+        "emailTitle": "Comment nous joindre :",
+        "emailDesc": "E-mail : Envoyez-nous un message à tout moment à : et nous vous répondrons dès que possible.",
+        "social": "Réseaux sociaux :",
+        "website": "Ou visitez notre site Web",
+        "webLink": "https://globalmusicplayer.com",
+        "socialDesc": "Restez informé ! Suivez-nous sur nos réseaux sociaux pour des aperçus réguliers en coulisses, des annonces d'événements, et des recettes à essayer chez vous. Retrouvez-nous sur :",
+        "email": "mail@globalmusicplayer.com",
+        "visitUs": "Venez nous voir :",
+        "visitDesc": "Si vous êtes à Oldenburg et souhaitez nous rencontrer en personne, nous serions ravis de vous accueillir. Venez nous rendre visite et découvrez notre projet ainsi que les personnes qui le portent. Envoyez-nous simplement un message pour convenir d'un rendez-vous !"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+ 
+}

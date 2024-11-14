@@ -1,0 +1,276 @@
+{
+    "LanguageSwitcher": {
+        "switchTo": "Switch to {locale}"
+      },
+      "NotFound": {
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page not found!",
+      "desc": "The requested URL does not work.",
+      "image": "/images/logo.png",
+      "what": "What now?",
+      "btn": "Go to Homepage"
+    }
+  },
+    "Nav": {
+        "nav": [
+            {
+                "id": 0,
+                "title": "Home",
+                "url": "/"
+            },
+            {
+                "id": 1,
+                "title": "About us",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "title": "Projects",
+                "url": "/projects"
+            },
+            {
+                "id": 3,
+                "title": "Mission",
+                "url": "/mission"
+            },
+            {
+                "id": 4,
+                "title": "Our team",
+                "url": "/team"
+            },
+            {
+                "id": 5,
+                "title": "Contact",
+                "url": "/contact"
+            }
+        ]
+    },
+    "Carousel": {
+        "carousel": {
+            "title": "International Cooking Project",
+            "subtitle": "Food Rescue and Education for a Better Future",
+            "desc": "Welcome to the page of our International Cooking Project, initiated by Global Music Player! In a world where food waste is becoming an increasingly serious issue, we aim to make a difference with our project while also promoting intercultural exchange.",
+             "image": "/images/gas-cooker.png"
+        }
+    },
+
+    "Mission":{
+        "mission": {
+            "title": "Our Mission",
+            "subtitle": "",
+            "desc": "Our mission is to build bridges between cultures and reduce prejudices. Through various projects and events, we create spaces where people from around the world can share their stories, traditions, and talents. Our focus is on promoting intercultural encounters, supporting educational projects in developing countries, and raising awareness for sustainable lifestyles.",
+            "image": "/images/broken-egg.png",
+            "btn": "Read more"
+        }
+      },
+      "About": {
+    "about": {
+        "title": "About Us",
+        "subtitle": "Global Music Player – Intercultural Interaction Through Music and Culinary Arts",
+        "desc": "Global Music Player is an intercultural association dedicated to bringing people from different cultures together through the unifying power of music and culinary experiences. Founded in Oldenburg, our association stands for openness, diversity, and mutual respect. We firmly believe that cultural exchange is a key to greater understanding and tolerance in our society.",
+        "image": "/images/saxophonist.png",
+        "btn": "Learn More"
+        }
+    },
+    "Projects": {
+    "projects": {
+        "title": "How the Project Works",
+        "subtitle": "",
+        "desc": "In the workshops, the students learn how to prepare simple, healthy, and delicious dishes – using ingredients that are often considered 'leftovers.' The recipes come from various countries and reflect the diversity of cultures that come together in Oldenburg. Our international cooking instructors share not only their knowledge but also their personal stories and traditions.",
+        "image": "/images/girl.png",
+        "btn": "Read More"
+        }
+    },
+    "Teams": {
+    "teams": {
+        "title": "Our Team",
+        "subtitle": "",
+        "desc": "Our team is made up of dedicated individuals from various backgrounds who contribute their time, skills, and passions to achieve our goals. Everyone who supports our association helps strengthen a community based on solidarity, mutual respect, and cultural diversity.",
+        "btn": "Read More",
+        "teamCarousel": [
+            {
+                "id": 0,
+                "name": "Bernard Ngassa",
+                "role": "Co-Founder / CEO",
+                "imageUrl": "/images/bernard.png"
+            },
+            {
+                "id": 1,
+                "name": "Carsten Lienemann",
+                "role": "Co-Founder / CEO",
+                "imageUrl": "/images/carsten.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Nino Zautashvili",
+                "role": "Singer",
+                "imageUrl": "/images/Nino.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Sophie Arenhövel",
+                "role": "Music Educator and Musician",
+                "imageUrl": "/images/Sophie.jpg"
+            }
+        ]
+        }
+    },
+    "Contact": {
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "Contact Information",
+        "desc": "We would be happy to hear from you! Whether you’re interested in our workshops, would like to volunteer, or wish to support our mission, our team is ready to answer all your questions.",
+        "subDesc": "For immediate assistance or inquiries, you can reach us at: Carsten Lienemann",
+        "address": "Ahlersweg 15, 26127 Oldenburg.",
+        "email": "mailto:mail@globalmusicplayer.com",
+        "image": "/images/girl.png",
+        "btn": "SEND EMAIL"
+    }
+    
+
+},
+"AboutUs": {
+    "aboutUs": {
+        "title": "About Us",
+        "subtitle": "Global Music Player – Intercultural Togetherness Through Music and Culinary Arts",
+        "desc": "Our mission is to build bridges between cultures and break down prejudices. Through various projects and events, we create spaces where people from all over the world can share their stories, traditions, and talents. Our focus is on promoting intercultural encounters, supporting educational projects in developing countries, and raising awareness for sustainable lifestyles.",
+        "image": "",
+        "aboutArray": [
+            {
+                "id": 0,
+                "title": "Our Mission",
+                "desc": "Our mission is to build bridges between cultures and break down prejudices. Through various projects and events, we create spaces where people from all over the world can share their stories, traditions, and talents. Our focus is on promoting intercultural encounters, supporting educational projects in developing countries, and raising awareness for sustainable lifestyles."
+            },
+            {
+                "id": 1,
+                "title": "Our Projects",
+                "desc": "From music workshops and concerts to intercultural cooking classes – our projects are as diverse as our members. A particular highlight is our International Cooking Project, where we collaborate with schools in Oldenburg to promote conscious food use while supporting the construction of schools in Cameroon and Côte d'Ivoire."
+            }
+            ]
+        }
+    },
+    "ProjectPage": {
+    "projectPage": {
+        "title": "Projects",
+        "subtitle": "Sustainable Impact and Future Perspectives",
+        "desc": "The International Cooking Project is not limited to a one-time workshop. We aim to create a lasting change in the behavior and mindset of students. By teaching practical skills and cultural sensitivity, we hope to contribute to building a sustainable and open society. With the revenue from this project, we plan to build and equip additional schools in Cameroon and Côte d'Ivoire, thereby expanding access to education and providing young people with the opportunity for a better future. We hope that this project will inspire similar efforts in other cities and countries, multiplying the positive impact.",
+        "image": "/images/hot-dog.png",
+        "subDescription": "Project Structure and Process",
+        "subDescArray": [
+            {
+                "id": 0,
+                "title": "1- Selection of Schools and Participants:",
+                "desc": "Each workshop is carefully prepared by our international cooking instructors. They choose recipes that are both simple and representative of their respective cultures. We ensure that the ingredients used are locally and seasonally available to support sustainability principles."
+            },
+            {
+                "id": 1,
+                "title": "2- Workshop Design and Preparation:",
+                "desc": "Each workshop is carefully prepared by our international cooking instructors. They choose recipes that are both simple and representative of their respective cultures. We ensure that the ingredients used are locally and seasonally available to support sustainability principles."
+            },
+            {
+                "id": 2,
+                "title": "3- Conducting the Workshops:",
+                "desc": "The workshops begin with an introduction to the topic of food waste and the importance of sustainability. The cooking instructors then present their recipes and share the stories behind the dishes. The students cook under guidance, learning essential kitchen techniques and creative ways to use leftovers."
+            },
+            {
+                "id": 3,
+                "title": "4- Reflection and Exchange:",
+                "desc": "After cooking and eating together, there is time for reflection and discussion. Students can ask questions, share their experiences, and talk about what they have learned. This exchange is vital for understanding the cultural and environmental issues the project addresses."
+            },
+            {
+                "id": 4,
+                "title": "5- Follow-up and Engagement:",
+                "desc": "After the workshops, participants receive access to recipes and materials they can use at home to deepen what they’ve learned. They also have the opportunity to join further activities with the Global Music Player association to continue expanding their knowledge and skills."
+            }
+        ]
+        }
+    },
+    "MissionPage": {
+    "missionPage": {
+        "headTitle": "Mission",
+        "title": "Together for Sustainability and Education",
+        "image": "/images/egg.png",
+        "subImage": "/images/carrot.png",
+        "desc": "The International Cooking Project by Global Music Player is a unique initiative that combines culinary arts, intercultural exchange, and education. In collaboration with schools in Oldenburg, we aim to raise students' awareness of mindful and sustainable food practices while also bridging cultural gaps. In a world where millions of tons of food are wasted every year, we want to emphasize how valuable each ingredient is. Through the International Cooking Project, we teach students that every food item – even leftovers – can be turned into something delicious and nutritious. At the same time, we harness the power of cooking together to overcome cultural differences and promote a new generation of environmentally conscious and open-minded citizens.",
+        "subtitle": "Our Idea",
+        "subDescription": "Food waste is a global issue that affects us all. With our project, we show how delicious and nutritious meals can be created from leftovers and surplus food. The unique aspect: the cooking workshops are led by people from various countries who live in Oldenburg and share their traditional recipes and cooking techniques with the students. This approach not only fosters sustainability awareness but also initiates an intercultural dialogue that broadens participants' perspectives.",
+        "subMissionTitle": "Our Goals and Societal Value",
+        "subMissionArray": [
+            {
+                "id": 0,
+                "title": "Sustainability and Food Rescue:",
+                "desc": "Food handling is a central aspect of the project. We teach students how to create delicious dishes from ingredients often considered waste. They learn to conserve resources and reduce their ecological footprint. These skills are valuable not only at home but also contribute to global sustainability."
+            },
+            {
+                "id": 1,
+                "title": "Sustainability and Food Rescue:",
+                "desc": "Food handling is a central aspect of the project. We teach students how to create delicious dishes from ingredients often considered waste. They learn to conserve resources and reduce their ecological footprint. These skills are valuable not only at home but also contribute to global sustainability."
+            },
+            {
+                "id": 2,
+                "title": "Sustainability and Food Rescue:",
+                "desc": "Food handling is a central aspect of the project. We teach students how to create delicious dishes from ingredients often considered waste. They learn to conserve resources and reduce their ecological footprint. These skills are valuable not only at home but also contribute to global sustainability."
+            }
+        ]
+    }
+},
+"TeamPage": {
+    "teamPage": {
+        "title": "Team",
+        "subtitle": "Our Team",
+        "desc": "Our team consists of dedicated people from diverse backgrounds who contribute their time, skills, and passions to achieve our goals. Everyone who supports our organization helps to strengthen a community based on solidarity, mutual respect, and cultural diversity.",
+        "image": "/images/peoples.png",
+        "subDescription": "Get to know our team and be inspired by the people behind the project – people who make a difference, one plate and one smile at a time!",
+        "subDescArray": [
+            {
+                "id": 0,
+                "title": "Who are we?",
+                "desc": "We are chefs, cultural ambassadors, educators, marketing and communication talents, IT professionals, and visionaries – all united by the goal of sharing cultural knowledge and fostering sustainable thinking. Our members come from different countries and cultures but now live in Oldenburg. Together, we bring not only the flavors and dishes of our homelands but also the stories and traditions that make this cuisine so special."
+            },
+            {
+                "id": 1,
+                "title": "What do we stand for?",
+                "desc": "Our team stands for openness, collaboration, and a desire to make the world a little better through joint action. We believe that cooking connects people and sparks curiosity about other cultures. Our project is more than just an initiative – it’s a labor of love. With every recipe, every anecdote, and every interaction, we aim to build bridges between cultures and contribute to education."
+            },
+            {
+                "id": 2,
+                "title": "What makes us special?",
+                "desc": "What sets us apart is our diversity and commitment. Each team member brings their own talents and unique perspectives. Together, we form a strong unit driven by culinary creativity and a desire to create something sustainable. Our team loves to learn from each other and inspire one another – and we’re eager to share this enthusiasm with children, young people, and the community."
+            },
+            {
+                "id": 3,
+                "title": "Reflection and Exchange:",
+                "desc": "After cooking and eating together, there is space for reflection and discussion. The students can ask questions, share their experiences, and talk about what they’ve learned. This exchange is essential for understanding the cultural and ecological topics the project addresses."
+            }
+        ]
+    }
+},
+"ContactPage": {
+    "contactPage": {
+        "title": "Contact",
+        "subtitle": "Get in Touch with Us",
+        "desc": "Do you have questions, ideas, or want to support our project? We would love to hear from you! Whether you want to learn more about our cooking courses, are interested in volunteering, or are simply curious about the people behind the project – we are here for you.",
+        "emailTitle": "How to Reach Us:",
+        "emailDesc": "Email: Send us a message anytime at: and we will get back to you as soon as possible.",
+        "social": "Social Media:",
+        "website": "Or, visit our Website",
+        "webLink": "https://globalmusicplayer.com",
+        "socialDesc": "Stay updated! Follow us on our social media channels for regular behind-the-scenes insights, event announcements, and recipes to try at home. Find us on:",
+        "email": "mail@globalmusicplayer.com",
+        "visitUs": "Visit Us:",
+        "visitDesc": "If you are in Oldenburg and would like to meet us in person, we would be delighted to have you visit. Stop by and learn more about our project and the people behind it. Just send us a quick message to arrange a visit!"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+}

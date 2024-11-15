@@ -15,8 +15,8 @@ const TeamsCarousel = () => {
               <div className="flex md:justify-start justify-center md:flex-row flex-col items-center gap-x-6">
                 <Image width={100} height={100} alt="" src={person.imageUrl} className="size-16 object-cover rounded-full" />
                 <div>
-                  <h3 className="text-base/7 font-semibold tracking-tight text-gray-900">{person.name}</h3>
-                  <p className="text-sm/6 font-semibold text-[#05AD5D]">{person.role}</p>
+                  <h3 className="text-base/7 text-center md:text-left  font-semibold tracking-tight text-gray-900">{person.name}</h3>
+                  <p className="text-sm/6 text-center md:text-left font-semibold text-[#05AD5D]">{person.role}</p>
                 </div>
               </div>
             </li>

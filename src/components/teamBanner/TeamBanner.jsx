@@ -1,8 +1,9 @@
 
 import Image from "next/image"
-import Link from "next/link"
+
 import TeamsCarousel from "../teamsCarousel/TeamsCarousel"
 import { useTranslations } from "next-intl"
+import { Link } from "@/i18n/routing"
 
 
 

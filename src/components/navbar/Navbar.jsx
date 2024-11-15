@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="fixed px-[1rem] top-0 left-0 w-full bg-white z-40">
 
           <div className={`  flex justify-between  mx-auto max-w-[75rem] py-2 items-center`} >
-                      <Link href={"/"} className="z-50 " onClick={()=>{setOpenNavbar(false)}} >
+                      <Link href={nav[0].url} className="z-50 " onClick={()=>{setOpenNavbar(false)}} >
                           <Image style={{width:"3rem", height:"auto"}} priority className=" w-[2rem] md:w-[2.5rem] rounded-md" src={"/images/logo.png"} alt="" width={70} height={70} />
                       </Link>
                     <div className=" relative">

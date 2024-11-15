@@ -1,7 +1,7 @@
+import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import Image from "next/image"
-import Link from "next/link";
-import { CiFacebook, CiInstagram, CiYoutube } from "react-icons/ci";
+
 
 const MissionBanner = () => {
   const missionData = useTranslations('Mission')

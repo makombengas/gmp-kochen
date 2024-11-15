@@ -30,7 +30,7 @@ const Navbar = () => {
       <div className="fixed px-[1rem] top-0 left-0 w-full bg-white z-40">
 
           <div className={`  flex justify-between  mx-auto max-w-[75rem] py-2 items-center`} >
-                      <Link href={nav[0].url} className="z-50 " onClick={()=>{setOpenNavbar(false)}} >
+                      <Link rel="preload" href={nav[0].url} className="z-50 " onClick={()=>{setOpenNavbar(false)}} >
                           <Image style={{width:"3rem", height:"auto"}} priority className=" w-[2rem] md:w-[2.5rem] rounded-md" src={"/images/logo.png"} alt="" width={70} height={70} />
                       </Link>
                     <div className=" relative">
@@ -41,7 +41,7 @@ const Navbar = () => {
                                   
 
                                   <div key={item.id} className="font-medium text-xl">
-                                    <Link href={item.url} className={` ${item.url === isActive ? "text-[#05AD5D]" : ""}  md:text-[.85rem]   lg:text-[.85rem]  xl:text-[1.1rem] uppercase hover:text-[#05AD5D]`} onClick={()=>setOpenNavbar(false)}>{item.title}</Link>
+                                    <Link rel="preload" href={item.url} className={` ${item.url === isActive ? "text-[#05AD5D]" : ""}  md:text-[.85rem]   lg:text-[.85rem]  xl:text-[1.1rem] uppercase hover:text-[#05AD5D]`} onClick={()=>setOpenNavbar(false)}>{item.title}</Link>
                                   </div>
 
                                 ))

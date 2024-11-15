@@ -26,7 +26,7 @@ const NotFind = () => {
     Was jetzt?
     </span>
 
-    <Link  className="hover:bg-[#05AD5D]/80 font-bold  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] bg-[#fff] border-2 mt-5 text-xl"  href="/">
+    <Link rel="preload"  className="hover:bg-[#05AD5D]/80 font-bold  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] bg-[#fff] border-2 mt-5 text-xl"  href="/">
               {"Zur Seite gehen"}
     </Link>
     

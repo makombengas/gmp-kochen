@@ -39,6 +39,7 @@ const LanguageSwitcher = () => {
       { showFlags && <div className="   static  md:absolute top-8 grid grid-cols-3 md:grid-cols-1 place-content-center place-items-center px-2 gap-3">
          {Object.keys(flags).map((locale) => (
             <Link
+            rel="preload"
               key={locale}
               href={pathname}
               locale={locale}

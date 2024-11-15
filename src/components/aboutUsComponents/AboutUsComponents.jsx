@@ -24,14 +24,14 @@ const AboutUsComponents = () => {
             </p>
            <div className="mt-5 flex justify-between items-center ">
                 <div className="  flex justify-center items-center      gap-4">
-                  <Link  className="hover:bg-[#05AD5D]/80  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] border-[#05AD5D] border-2  text-xl"  href="/about">
+                  <Link rel="preload"  className="hover:bg-[#05AD5D]/80  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] border-[#05AD5D] border-2  text-xl"  href="/about">
                   {about.btn}
                   </Link>
                   
                 </div> 
                 <div className="flex text-[#05AD5D] text-7xl  gap-4">
                 
-                  <Link target="_blank"  href="https://www.youtube.com/@GlobalMusicPlayer">
+                  <Link rel="preload" target="_blank"  href="https://www.youtube.com/@GlobalMusicPlayer">
                       <CiYoutube />
                   </Link>
                 

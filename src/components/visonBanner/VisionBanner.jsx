@@ -26,7 +26,7 @@ const VisionBanner = () => {
             </p>
 
             <div className=" flex justify-center items-center   md:block    gap-4">
-            <Link href={'/projects'} className={`${nav[2].url === isActive ?  'bg-[#05AD5D] text-white' : ''} hover:bg-[#05AD5D]/80  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] border-[#05AD5D] border-2 mt-5 text-xl`}   >
+            <Link rel="preload" href={'/projects'} className={`${nav[2].url === isActive ?  'bg-[#05AD5D] text-white' : ''} hover:bg-[#05AD5D]/80  hover:text-white  mx-auto  px-3 py-1 rounded-md max-w-[12rem] float-left text-[#05AD5D] border-[#05AD5D] border-2 mt-5 text-xl`}   >
             {projects.btn}
             </Link>
             

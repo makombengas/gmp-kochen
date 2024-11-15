@@ -28,7 +28,7 @@ const Footer = () => {
 
     <div className="flex justify-center items-center text-[.45rem] md:text-[.85rem] gap-2 ">
       
-    <a target="_blank" href=" https://www.vectorportal.com/StockVectors/"><b className="text-[#05AD5D]" >Vector Image made by </b></a>  Vectorportal.com is licensed under <a className="external text" href=" https://creativecommons.org/licenses/by/4.0/" rel="nofollow">CC BY</a>
+    <a rel="preload" target="_blank" href=" https://www.vectorportal.com/StockVectors/"><b className="text-[#05AD5D]" >Vector Image made by </b></a>  Vectorportal.com is licensed under <a className="external text" href=" https://creativecommons.org/licenses/by/4.0/" rel="nofollow">CC BY</a>
     </div>
 
     </div>
